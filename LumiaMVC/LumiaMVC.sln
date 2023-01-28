@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumiaMVC", "LumiaMVC\LumiaMVC.csproj", "{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{EA282530-FC86-4022-ADEC-96F690B1C84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C0A105B8-F0E7-491E-A237-EF396FF4F07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA282530-FC86-4022-ADEC-96F690B1C84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA282530-FC86-4022-ADEC-96F690B1C84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA282530-FC86-4022-ADEC-96F690B1C84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA282530-FC86-4022-ADEC-96F690B1C84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369012F2-CB21-430F-B106-E3B2B498095B}
+	EndGlobalSection
+EndGlobal
