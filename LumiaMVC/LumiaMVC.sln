@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumiaMVC", "LumiaMVC\LumiaMVC.csproj", "{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LumiaMVC", "LumiaMVC\LumiaMVC.csproj", "{F9B03ECF-2604-4FAE-A760-DDE1DEEC230F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{EA282530-FC86-4022-ADEC-96F690B1C84F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{EA282530-FC86-4022-ADEC-96F690B1C84F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C0A105B8-F0E7-491E-A237-EF396FF4F07E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C0A105B8-F0E7-491E-A237-EF396FF4F07E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminPanel", "AdminPanel\AdminPanel.csproj", "{D1E68CF7-F267-4B93-9C3A-6F8BDA101640}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0A105B8-F0E7-491E-A237-EF396FF4F07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E68CF7-F267-4B93-9C3A-6F8BDA101640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E68CF7-F267-4B93-9C3A-6F8BDA101640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E68CF7-F267-4B93-9C3A-6F8BDA101640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E68CF7-F267-4B93-9C3A-6F8BDA101640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

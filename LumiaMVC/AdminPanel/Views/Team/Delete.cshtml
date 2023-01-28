@@ -1,0 +1,17 @@
+﻿@using Core.Entities
+@model Team
+<h1>Detail</h1>
+<br />
+<br />
+
+<div class="col-4">
+    <img src="~Img//@Model.Img" height="100px" /><br /><br />
+    <h3>Name: @Model.Fullname</h3>
+    <h4>Position:@Model.Position </h4>
+    <h4>Description: @Model.Description</h4><br />
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger mr-2">Delete</button>
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

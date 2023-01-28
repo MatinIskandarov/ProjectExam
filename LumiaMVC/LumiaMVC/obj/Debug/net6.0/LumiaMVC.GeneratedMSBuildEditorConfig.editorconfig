@@ -8,25 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LumiaMVC
 build_property.RootNamespace = LumiaMVC
-build_property.ProjectDir = C:\Users\ClassTime\source\repos\LumiaMVC\LumiaMVC\
+build_property.ProjectDir = D:\metin\ProjectExam\LumiaMVC\LumiaMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ClassTime\source\repos\LumiaMVC\LumiaMVC
+build_property.MSBuildProjectDirectory = D:\metin\ProjectExam\LumiaMVC\LumiaMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ClassTime/source/repos/LumiaMVC/LumiaMVC/Views/Home/Index.cshtml]
+[D:/metin/ProjectExam/LumiaMVC/LumiaMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ClassTime/source/repos/LumiaMVC/LumiaMVC/Views/Shared/_Layout.cshtml]
+[D:/metin/ProjectExam/LumiaMVC/LumiaMVC/Views/Shared/Components/Team/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVhbVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/metin/ProjectExam/LumiaMVC/LumiaMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ClassTime/source/repos/LumiaMVC/LumiaMVC/Views/_ViewImports.cshtml]
+[D:/metin/ProjectExam/LumiaMVC/LumiaMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ClassTime/source/repos/LumiaMVC/LumiaMVC/Views/_ViewStart.cshtml]
+[D:/metin/ProjectExam/LumiaMVC/LumiaMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

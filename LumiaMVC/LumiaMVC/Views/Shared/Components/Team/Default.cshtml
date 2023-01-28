@@ -1,0 +1,36 @@
+﻿@using Core.Entities
+@model List<Team>
+<!-- ======= Team Section ======= -->
+<section id="team" class="team">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Team</h2>
+            <p>Sit sint consectetur velit quos quisquam cupiditate nemo qui</p>
+        </div>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <img src="~/Img/@item.Img" alt="">
+                        <h4>@item.Fullname</h4>
+                        <span>@item.Position</span>
+                        <p>
+                            @item.Description
+                        </p>
+                        <div class="social">
+                            <a href=""><i class="bi bi-twitter"></i></a>
+                            <a href=""><i class="bi bi-facebook"></i></a>
+                            <a href=""><i class="bi bi-instagram"></i></a>
+                            <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+
+    </div>
+</section><!-- End Team Section -->
